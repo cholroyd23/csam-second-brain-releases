@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.4",
+  "version": "4.0.5",
   "date": "2026-09-10",
   "publicCategory": "Experience",
-  "upgradeHeadline": "Updates moved to Settings—and stopped hiding",
-  "upgradeSynopsis": "New releases now announce themselves once, keep a quiet Settings badge until installed, and leave About to discuss itself.",
+  "upgradeHeadline": "The Updates page acquired an update button",
+  "upgradeSynopsis": "Settings now takes you straight to Updates and provides the actual download action—an ambitious pairing of message and means.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "",
-  "sha256": "A4FFF7A7A5661745C1C03C938289BA7E9ED195F4579A2F8624FCDA1304B1E6F8"
+  "sha256": "224A78B917591163DB8ED82F78B89777D87C811FFB30AFD16BC1ADE7BFD8CAF7"
 }
