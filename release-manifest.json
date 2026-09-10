@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.0",
+  "version": "4.0.1",
   "date": "2026-09-09",
   "publicCategory": "Orchestration",
-  "upgradeHeadline": "Second Brain 4.0 adds guarded MSX orchestration",
-  "upgradeSynopsis": "Prepare and approve milestone updates from 2B while preserving explicit review and exact-field validation.",
+  "upgradeHeadline": "Second Brain 4.0.1 sharpens guarded milestone workflows",
+  "upgradeSynopsis": "Use safer single and bulk milestone updates, review Updated Today, elevate Promoted Actions, and surface capacity and escalation signals consistently.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "",
-  "sha256": "53C6E16DCD0B0E4086204F47D3A3BC50F469C72ECC03F41DCB3CAF5D084C610A"
+  "sha256": "6DEC96741C125DB43D59EE37AA87F7D730986FEDEF7871244CEE2D67C776A907"
 }
