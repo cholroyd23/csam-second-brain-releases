@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.3",
+  "version": "4.0.4",
   "date": "2026-09-10",
   "publicCategory": "Experience",
-  "upgradeHeadline": "Second Brain learned when to speak—and when not to",
-  "upgradeSynopsis": "Background work now calls you back when needed, sound is optional, controls behave consistently, and duplicate account narration has left the building.",
+  "upgradeHeadline": "Updates moved to Settings—and stopped hiding",
+  "upgradeSynopsis": "New releases now announce themselves once, keep a quiet Settings badge until installed, and leave About to discuss itself.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "",
-  "sha256": "38B7EDDE39846801D7C2A3F3522BFB1501A60BCE12106C4926E6D14CFF7ACDA7"
+  "sha256": "A4FFF7A7A5661745C1C03C938289BA7E9ED195F4579A2F8624FCDA1304B1E6F8"
 }
