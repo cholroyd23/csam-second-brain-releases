@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.1",
-  "date": "2026-09-09",
-  "publicCategory": "Orchestration",
-  "upgradeHeadline": "Second Brain 4.0.1 sharpens guarded milestone workflows",
-  "upgradeSynopsis": "Use safer milestone updates, hide completed rows until refresh, elevate Promoted Actions, and surface escalation signals consistently.",
+  "version": "4.0.2",
+  "date": "2026-09-10",
+  "publicCategory": "Experience",
+  "upgradeHeadline": "Second Brain updates now behave like actual updates",
+  "upgradeSynopsis": "Clear update notices, reliable verified downloads, cleaner milestone follow-through, and consistent controls throughout.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "",
-  "sha256": "D2E4AC98439716369FB495CC8E926EE498B252A76CEC6316D9BE3F9173D60AE0"
+  "sha256": "1B5BBF15E9E961B920D38C92CD77F237225EF247F6E434D29E367593C0F89089"
 }
