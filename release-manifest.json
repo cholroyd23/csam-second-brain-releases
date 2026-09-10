@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.2",
+  "version": "4.0.3",
   "date": "2026-09-10",
   "publicCategory": "Experience",
-  "upgradeHeadline": "Second Brain updates now behave like actual updates",
-  "upgradeSynopsis": "Clear update notices, reliable verified downloads, cleaner milestone follow-through, and consistent controls throughout.",
+  "upgradeHeadline": "Second Brain learned when to speak—and when not to",
+  "upgradeSynopsis": "Background work now calls you back when needed, sound is optional, controls behave consistently, and duplicate account narration has left the building.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "",
-  "sha256": "E470D32D81A7B8C96D2EF67CABB8689E56B2A9CBDC947227DE16838EB589A71C"
+  "sha256": "38B7EDDE39846801D7C2A3F3522BFB1501A60BCE12106C4926E6D14CFF7ACDA7"
 }
