@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.9",
+  "version": "4.0.10",
   "date": "2026-09-11",
   "publicCategory": "Experience",
-  "upgradeHeadline": "Upgrades now perform the full wardrobe change",
-  "upgradeSynopsis": "PCC shuts down cleanly, upgrades and verifies itself, then relaunches fresh without leaving yesterday’s interface pretending nothing happened.",
+  "upgradeHeadline": "Setup stopped hiding its own finish line",
+  "upgradeSynopsis": "The completion prompt now stays in front, closes cleanly, and only then relaunches PCC—because a successful upgrade should not cosplay as a frozen installer.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "0096365903FE728E7CF8E4A96DCFE4B2E121856D69150F45C5B69B0F0FB5D329"
+  "sha256": "7D623342499418F6DDCFE612C45026E070F526A24D56E1F033AD9B6E6EBDC34E"
 }
