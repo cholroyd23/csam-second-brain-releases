@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.7",
+  "version": "4.0.8",
   "date": "2026-09-11",
   "publicCategory": "Experience",
-  "upgradeHeadline": "The update badge now knows when the update happened",
-  "upgradeSynopsis": "Returning to PCC refreshes update status quietly, so yesterday’s badge does not linger after today’s upgrade.",
+  "upgradeHeadline": "The whole badged gear now understands the assignment",
+  "upgradeSynopsis": "When an update is waiting, clicking either the badge or the Settings gear lands directly on Updates and its download action.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "",
-  "sha256": "AF7C4FCA004280521B3496EE598ED6BA194076532CEDE478AD30D5FDDAE9C8B7"
+  "sha256": "B6DF7EA6524E7E2A382BC85B9794767DE7F0C717793BC8B37F2861F4684FAD08"
 }
