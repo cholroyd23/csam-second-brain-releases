@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.6",
+  "version": "4.0.7",
   "date": "2026-09-11",
   "publicCategory": "Experience",
-  "upgradeHeadline": "Update downloads stopped opening a sightseeing tab",
-  "upgradeSynopsis": "Protected installers now download quietly in place, leaving Settings—and your train of thought—where they were.",
+  "upgradeHeadline": "The update badge now knows when the update happened",
+  "upgradeSynopsis": "Returning to PCC refreshes update status quietly, so yesterday’s badge does not linger after today’s upgrade.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "",
-  "sha256": "8BDC377880E59044E07BAA5E98B574C7F7BDD826CBA760DF1C950D0B8D02E3EC"
+  "sha256": "AF7C4FCA004280521B3496EE598ED6BA194076532CEDE478AD30D5FDDAE9C8B7"
 }
