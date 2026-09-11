@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.5",
-  "date": "2026-09-10",
+  "version": "4.0.6",
+  "date": "2026-09-11",
   "publicCategory": "Experience",
-  "upgradeHeadline": "The Updates page acquired an update button",
-  "upgradeSynopsis": "Settings now takes you straight to Updates and provides the actual download action—an ambitious pairing of message and means.",
+  "upgradeHeadline": "Update downloads stopped opening a sightseeing tab",
+  "upgradeSynopsis": "Protected installers now download quietly in place, leaving Settings—and your train of thought—where they were.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "",
-  "sha256": "224A78B917591163DB8ED82F78B89777D87C811FFB30AFD16BC1ADE7BFD8CAF7"
+  "sha256": "8BDC377880E59044E07BAA5E98B574C7F7BDD826CBA760DF1C950D0B8D02E3EC"
 }
