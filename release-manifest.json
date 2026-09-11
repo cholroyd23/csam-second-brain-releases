@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.8",
+  "version": "4.0.9",
   "date": "2026-09-11",
   "publicCategory": "Experience",
-  "upgradeHeadline": "The whole badged gear now understands the assignment",
-  "upgradeSynopsis": "When an update is waiting, clicking either the badge or the Settings gear lands directly on Updates and its download action.",
+  "upgradeHeadline": "Upgrades now perform the full wardrobe change",
+  "upgradeSynopsis": "PCC shuts down cleanly, upgrades and verifies itself, then relaunches fresh without leaving yesterday’s interface pretending nothing happened.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
-  "packageFile": "",
-  "sha256": "B6DF7EA6524E7E2A382BC85B9794767DE7F0C717793BC8B37F2861F4684FAD08"
+  "packageFile": "csam-second-brain-package/Setup.exe",
+  "sha256": "0096365903FE728E7CF8E4A96DCFE4B2E121856D69150F45C5B69B0F0FB5D329"
 }
