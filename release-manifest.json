@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.10",
+  "version": "4.0.12",
   "date": "2026-09-11",
   "publicCategory": "Experience",
-  "upgradeHeadline": "Setup stopped hiding its own finish line",
-  "upgradeSynopsis": "The completion prompt now stays in front, closes cleanly, and only then relaunches PCC—because a successful upgrade should not cosplay as a frozen installer.",
+  "upgradeHeadline": "Stakeholders can finally have managers",
+  "upgradeSynopsis": "Edit Stakeholder now includes Reports to, and every customer stakeholder roster is listed alphabetically.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "7D623342499418F6DDCFE612C45026E070F526A24D56E1F033AD9B6E6EBDC34E"
+  "sha256": "C85FD309630B4355997E16AD043FCEA84BB12CD933ED7CF45F63E7704E87F980"
 }
