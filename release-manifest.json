@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.14",
+  "version": "4.0.15",
   "date": "2026-09-14",
   "publicCategory": "Experience",
-  "upgradeHeadline": "Email links now open Outlook compose",
-  "upgradeSynopsis": "Stakeholder and contact email links now open a reliable Outlook Web compose window instead of depending on a local mail handler.",
+  "upgradeHeadline": "Org charts fit more people without the sprawl",
+  "upgradeSynopsis": "Org-chart identity cards and branch spacing are now substantially more compact while preserving names, titles, emails, and reporting relationships.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "68134468FDF5944023AE31E8E06EED010934A689651AE56876673B5DED518E74"
+  "sha256": "CFA53E74A24A1A6E9D83241CCD38885377C71BA397AF45368D02E359AE83DBD1"
 }
