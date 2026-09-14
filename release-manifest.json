@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.12",
-  "date": "2026-09-11",
+  "version": "4.0.13",
+  "date": "2026-09-14",
   "publicCategory": "Experience",
-  "upgradeHeadline": "Stakeholders can finally have managers",
-  "upgradeSynopsis": "Edit Stakeholder now includes Reports to, and every customer stakeholder roster is listed alphabetically.",
+  "upgradeHeadline": "Setup finishes safely and stakeholder reporting lines stay visible",
+  "upgradeSynopsis": "Setup now installs the Scout skill with an explicit restart handoff, while stakeholder rosters keep peers alphabetical and indent direct reports beneath their manager.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "C85FD309630B4355997E16AD043FCEA84BB12CD933ED7CF45F63E7704E87F980"
+  "sha256": "BD390C81196ABC1A59C81416B6472E937993D1C81CD9863A6E1F3F37A3AD5633"
 }
