@@ -1,11 +1,11 @@
 {
-  "schemaVersion": 1,
-  "version": "4.0.21",
-  "date": "2026-09-16",
-  "publicCategory": "Experience",
-  "upgradeHeadline": "Executive summaries now bring the asks—and the receipts",
-  "upgradeSynopsis": "Executive summaries now surface evidence-backed leadership asks, confirmed outcomes, and practical KPI go-dos with clear completion criteria. Empty panels point to what needs to be added instead of contributing a deeply strategic blank stare.",
-  "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
-  "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "BAFF156560E6BB04C3359E54BDC8641082C73F569780FDBE3C1AE8F68F62242A"
+    "schemaVersion": 1,
+    "version": "4.0.22",
+    "date": "2026-09-16",
+    "publicCategory": "Experience",
+    "upgradeHeadline": "Momentum now recognizes progress without tripping over use cases",
+    "upgradeSynopsis": "Executive summaries retain evidence-backed project progress, including active customer use cases, while excluding blocked states and operational case or milestone hygiene.",
+    "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
+    "packageFile": "csam-second-brain-package/Setup.exe",
+    "sha256": "D1E9CCDB26290FEBC25BA9C80F61762953EDD4EF61F5DF91A969F9BEE87F2279"
 }
