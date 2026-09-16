@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.15",
-  "date": "2026-09-14",
+  "version": "4.0.16",
+  "date": "2026-09-15",
   "publicCategory": "Experience",
-  "upgradeHeadline": "Org charts fit more people without the sprawl",
-  "upgradeSynopsis": "Org-chart identity cards and branch spacing are now substantially more compact while preserving names, titles, emails, and reporting relationships.",
+  "upgradeHeadline": "Licensing expanded and executive reviews got concise",
+  "upgradeSynopsis": "Every license family is easier to scan, business reviews lead with concise takeaways, and supporting detail stays close without taking over the page.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "CFA53E74A24A1A6E9D83241CCD38885377C71BA397AF45368D02E359AE83DBD1"
+  "sha256": "701D3422237F435DFCC8660EC0F1AC4384DCC358DB67ECEA0668F2F29982BDA1"
 }
