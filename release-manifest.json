@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.19",
+  "version": "4.0.20",
   "date": "2026-09-16",
-  "publicCategory": "Reliability",
-  "upgradeHeadline": "Cross-machine launches now update safely",
-  "upgradeSynopsis": "The launcher detects newer synchronized customer engines before upgrade work, repairs stale local metadata, and opens only the authenticated secure installer.",
+  "publicCategory": "Experience",
+  "upgradeHeadline": "Executive summaries now recognize confirmed outcome tables",
+  "upgradeSynopsis": "Confirmed customer outcomes and their success signals now appear in executive summaries whether the source uses the standard table or bullet format.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "78616B41DAF96BE19B73357365508A7CB994C572F726470A0C41589BE80927E4"
+  "sha256": "120A63A50914E881A6C6E71C8D9062925DF657E5C57674FA76CB37165B58B813"
 }
