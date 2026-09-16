@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.18",
+  "version": "4.0.19",
   "date": "2026-09-16",
-  "publicCategory": "Experience",
-  "upgradeHeadline": "Sharing now distinguishes Backup Access and Co-manage",
-  "upgradeSynopsis": "Every shared Customer Brain recipient now has an explicit governed mode: one-way Backup Access or publisher-reviewed Co-manage.",
+  "publicCategory": "Reliability",
+  "upgradeHeadline": "Cross-machine launches now update safely",
+  "upgradeSynopsis": "The launcher detects newer synchronized customer engines before upgrade work, repairs stale local metadata, and opens only the authenticated secure installer.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "B4A7AEAC41B300F3264C55CB868CE05AF27073BE7D9D3074C6A48EF553080E9E"
+  "sha256": "78616B41DAF96BE19B73357365508A7CB994C572F726470A0C41589BE80927E4"
 }
