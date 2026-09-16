@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.20",
+  "version": "4.0.21",
   "date": "2026-09-16",
   "publicCategory": "Experience",
-  "upgradeHeadline": "Executive summaries now recognize confirmed outcome tables",
-  "upgradeSynopsis": "Confirmed customer outcomes and their success signals now appear in executive summaries whether the source uses the standard table or bullet format.",
+  "upgradeHeadline": "Executive summaries now bring the asks—and the receipts",
+  "upgradeSynopsis": "Executive summaries now surface evidence-backed leadership asks, confirmed outcomes, and practical KPI go-dos with clear completion criteria. Empty panels point to what needs to be added instead of contributing a deeply strategic blank stare.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "120A63A50914E881A6C6E71C8D9062925DF657E5C57674FA76CB37165B58B813"
+  "sha256": "BAFF156560E6BB04C3359E54BDC8641082C73F569780FDBE3C1AE8F68F62242A"
 }
