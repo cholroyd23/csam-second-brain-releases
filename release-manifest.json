@@ -1,11 +1,11 @@
 {
-    "schemaVersion": 1,
-    "version": "4.0.22",
-    "date": "2026-09-16",
-    "publicCategory": "Experience",
-    "upgradeHeadline": "Momentum now recognizes progress without tripping over use cases",
-    "upgradeSynopsis": "Executive summaries retain evidence-backed project progress, including active customer use cases, while excluding blocked states and operational case or milestone hygiene.",
-    "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
-    "packageFile": "csam-second-brain-package/Setup.exe",
-    "sha256": "D1E9CCDB26290FEBC25BA9C80F61762953EDD4EF61F5DF91A969F9BEE87F2279"
+  "schemaVersion": 1,
+  "version": "4.0.23",
+  "date": "2026-09-16",
+  "publicCategory": "Automation",
+  "upgradeHeadline": "Customer Brains now get a daily freshness check",
+  "upgradeSynopsis": "Second Brain now ensures one portfolio-wide daily refresh automation for active customers and recovers only brains that are at least 24 hours stale. Current, archived, and already-running brains are left alone—because refreshing the refresh is not a strategy.",
+  "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
+  "packageFile": "csam-second-brain-package/Setup.exe",
+  "sha256": "8075093BD1FF37A35358A7452E548D963EAE1E3BA099AD275AF00329F590955B"
 }
