@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.23",
-  "date": "2026-09-16",
-  "publicCategory": "Automation",
-  "upgradeHeadline": "Customer Brains now get a daily freshness check",
-  "upgradeSynopsis": "Second Brain now ensures one portfolio-wide daily refresh automation for active customers and recovers only brains that are at least 24 hours stale. Current, archived, and already-running brains are left alone—because refreshing the refresh is not a strategy.",
+  "version": "4.0.24",
+  "date": "2026-09-17",
+  "publicCategory": "Experience",
+  "upgradeHeadline": "Email links now open Outlook desktop",
+  "upgradeSynopsis": "Customer Brain email links now open a compose window in the installed Outlook desktop client instead of wandering into web mail. Revolutionary concept: a desktop link now opens the desktop app.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "5C05D469714A7CC6413154B700DD4870500A1771B58E39F6CDD30AC1B82C6EFC"
+  "sha256": "75AE06945E3E9664F20E5DD61221A2898903E1C9DDE67A6C22D7E9D9283B5E8B"
 }
