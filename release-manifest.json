@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.34",
+  "version": "4.0.35",
   "date": "2026-09-17",
-  "publicCategory": "Fix",
-  "upgradeHeadline": "Stakeholder validation now completes cleanly",
-  "upgradeSynopsis": "Reports to selections for existing org-chart stakeholders now save using their established node identity. Validation errors use a readable high-contrast alert and translate internal failures into clear next steps.",
+  "publicCategory": "Experience",
+  "upgradeHeadline": "Stakeholder status got quieter and Updates got dressed",
+  "upgradeSynopsis": "Validated now shows as a green shield-check instead of a tiny billboard. Edited, changed, and hidden states get their own compact icons, while the three update buttons finally look like they arrived from the same application.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "0DDB5191E87BE30753BE17D3E93495DBAA1C1838D682FA3034EDAA08CD5603F7"
+  "sha256": "484EAD9540E547A0F772E5BDD929366610C1218026537E438BFFF9EB7D85780B"
 }
