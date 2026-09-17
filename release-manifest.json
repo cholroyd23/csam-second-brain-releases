@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.26",
+  "version": "4.0.27",
   "date": "2026-09-17",
   "publicCategory": "Data Quality",
-  "upgradeHeadline": "Account-team assumptions are now reviewable",
-  "upgradeSynopsis": "Microsoft Account Team rows now include Confirm, Reject and Add/Edit Note actions, with durable user decisions that survive refreshes. Delivery attendance alone no longer earns someone a permanent seat at the account-team table.",
+  "upgradeHeadline": "Unmatched stakeholders can now join the org chart",
+  "upgradeSynopsis": "Reports to stays searchable when a stakeholder has no exact org match. Pick a manager or Top level to create a durable user-confirmed match—or leave it untouched, because “unmatched” is not the same thing as “does not exist.”",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "76C5E6D33CD6F8BE2F0123A3543629E6D984BE4C15ECEEA0829E01A0B11CBF77"
+  "sha256": "069AA16BB2F7CB2CD143E2F7EF63CC0D80E422A6439025796C73724DC75EBD85"
 }
