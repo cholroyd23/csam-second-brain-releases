@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.29",
+  "version": "4.0.30",
   "date": "2026-09-17",
   "publicCategory": "Experience",
-  "upgradeHeadline": "PAQ actions now respect what the item actually is",
-  "upgradeSynopsis": "Milestones keep the guarded MSX update, local completion, snooze and note actions; support cases gain meeting drafts. The mystery calendar has been reassigned to work that involves calendars.",
+  "upgradeHeadline": "Sharing confirmation now belongs to the app",
+  "upgradeSynopsis": "Enabling sharing now uses a clear Second Brain dialog with explicit consequences and actions. Localhost has been relieved of its spokesperson duties.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "6424F7F37386B6859AC11BF31404263A44DBC7018DC5DA6A9E774976030A6A7A"
+  "sha256": "13AE8DD5CEE5672CEA8D08DAFA8FF00257E5D21DB1A3A88CFFEB41EA6E922BEE"
 }
