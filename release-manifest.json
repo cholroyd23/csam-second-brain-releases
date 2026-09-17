@@ -7,5 +7,5 @@
   "upgradeSynopsis": "The installer now uses the approved blue-and-yellow layout with switch controls and visible progress. Portfolio personalization, privacy, presentation, appearance, navigation, and signal preferences are saved durably across upgrades. Action controls regain semantic colors, and the private earnings section now uses user-facing copy with complete dark-mode styling.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "0EBD0472FAC2C948CCD7A2EA9729569D5018EB5AC2A6D3BFD4D45E13CD44AF89"
+  "sha256": "0E6252FFF5005A2FE302AA3D87631C0497475E2C47F03ED59F1DAFC3AF51FA7C"
 }
