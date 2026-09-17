@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.1.0",
+  "version": "4.2.0",
   "date": "2026-09-17",
-  "publicCategory": "Experience",
-  "upgradeHeadline": "Presentation Mode now knows when to stop",
-  "upgradeSynopsis": "Presentation Mode hides My Performance & Earnings—period. The full PCC, every navigation item, every Favorite, KPI Plays, workflow actions, separators, counts, and customer sections stay exactly where you left them. The familiar action icons are back too.",
+  "publicCategory": "Capability",
+  "upgradeHeadline": "Every customer refresh now introduces the new arrivals",
+  "upgradeSynopsis": "Each customer Brain now shows a one-time What’s New notification for content added by its latest refresh. Open an item to jump straight to it; once you’ve looked, 2B stops waving it around.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "D58A44FB9A5186DD394790EF2452F57B7C55A1FF6C02D732AFCFFBD18812E0E9"
+  "sha256": "3BD8D9DC98238958B2C121D0B1EC903163A09700ED7EF748F01AD342B3FCED2B"
 }
