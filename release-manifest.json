@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.31",
+  "version": "4.0.32",
   "date": "2026-09-17",
-  "publicCategory": "Experience",
-  "upgradeHeadline": "Updates now explain themselves before asking nicely",
-  "upgradeSynopsis": "The Updates screen now compares your current and latest versions, explains the release, and offers Not now or a version-specific upgrade. Incoming invitations also have a lobby, because sterile empty states were getting suspiciously comfortable.",
+  "publicCategory": "Fix",
+  "upgradeHeadline": "Action icons now behave like UI controls",
+  "upgradeSynopsis": "Workflow, meeting, note, snooze, completion, promotion, archive, review, sharing, and milestone controls now use bounded monochrome SVGs instead of platform emoji. Their alignment and clipping stay consistent across browsers, themes, zoom levels, the PCC, and every customer Brain.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "39505A1E2347CE17849F79263FA607930D657C3BEA2ADACC18CF1A730AA4702A"
+  "sha256": "0CBDD4CD9C42F2EFAF096E599F6410675073C25EB662E41DD20BFD9A8054A73C"
 }
