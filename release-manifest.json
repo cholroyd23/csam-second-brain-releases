@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.25",
+  "version": "4.0.26",
   "date": "2026-09-17",
-  "publicCategory": "Experience",
-  "upgradeHeadline": "Email links now actually stay in Outlook desktop",
-  "upgradeSynopsis": "Customer Brain email links now remain mailto links and reliably hand compose actions to Outlook desktop. The old web-mail rewrite has been retired from its unsolicited career change.",
+  "publicCategory": "Data Quality",
+  "upgradeHeadline": "Account-team assumptions are now reviewable",
+  "upgradeSynopsis": "Microsoft Account Team rows now include Confirm, Reject and Add/Edit Note actions, with durable user decisions that survive refreshes. Delivery attendance alone no longer earns someone a permanent seat at the account-team table.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "F8E8D9C8D7175F91CEBA4AADD9DC7DADC7C888A84B680D22DE8B6082FCB3F205"
+  "sha256": "76C5E6D33CD6F8BE2F0123A3543629E6D984BE4C15ECEEA0829E01A0B11CBF77"
 }
