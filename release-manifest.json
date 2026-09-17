@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.32",
+  "version": "4.0.33",
   "date": "2026-09-17",
-  "publicCategory": "Fix",
-  "upgradeHeadline": "Action icons now behave like UI controls",
-  "upgradeSynopsis": "Workflow, meeting, note, snooze, completion, promotion, archive, review, sharing, and milestone controls now use bounded monochrome SVGs instead of platform emoji. Their alignment and clipping stay consistent across browsers, themes, zoom levels, the PCC, and every customer Brain.",
+  "publicCategory": "Experience",
+  "upgradeHeadline": "Setup looks like Second Brain and remembers your choices",
+  "upgradeSynopsis": "The installer now uses the approved blue-and-yellow layout with switch controls and visible progress. Portfolio personalization, privacy, presentation, appearance, navigation, and signal preferences are saved durably across upgrades. Action controls regain semantic colors, and the private earnings section now uses user-facing copy with complete dark-mode styling.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "0CBDD4CD9C42F2EFAF096E599F6410675073C25EB662E41DD20BFD9A8054A73C"
+  "sha256": "0EBD0472FAC2C948CCD7A2EA9729569D5018EB5AC2A6D3BFD4D45E13CD44AF89"
 }
