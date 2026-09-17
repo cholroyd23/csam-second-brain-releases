@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.28",
+  "version": "4.0.29",
   "date": "2026-09-17",
-  "publicCategory": "Reliability",
-  "upgradeHeadline": "Launcher failures now arrive with useful evidence",
-  "upgradeSynopsis": "Legacy unversioned customer engines now repair instead of blocking startup, shortcut creation is verified, and launcher failures create one sanitized support ZIP. Troubleshooting has graduated from screenshot archaeology.",
+  "publicCategory": "Experience",
+  "upgradeHeadline": "PAQ actions now respect what the item actually is",
+  "upgradeSynopsis": "Milestones keep the guarded MSX update, local completion, snooze and note actions; support cases gain meeting drafts. The mystery calendar has been reassigned to work that involves calendars.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "197EF45F295AEB39193F271F4AA9352A6067EC3254BE5A0677AE5A4899094764"
+  "sha256": "6424F7F37386B6859AC11BF31404263A44DBC7018DC5DA6A9E774976030A6A7A"
 }
