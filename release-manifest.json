@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.27",
+  "version": "4.0.28",
   "date": "2026-09-17",
-  "publicCategory": "Data Quality",
-  "upgradeHeadline": "Unmatched stakeholders can now join the org chart",
-  "upgradeSynopsis": "Reports to stays searchable when a stakeholder has no exact org match. Pick a manager or Top level to create a durable user-confirmed match—or leave it untouched, because “unmatched” is not the same thing as “does not exist.”",
+  "publicCategory": "Reliability",
+  "upgradeHeadline": "Launcher failures now arrive with useful evidence",
+  "upgradeSynopsis": "Legacy unversioned customer engines now repair instead of blocking startup, shortcut creation is verified, and launcher failures create one sanitized support ZIP. Troubleshooting has graduated from screenshot archaeology.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "069AA16BB2F7CB2CD143E2F7EF63CC0D80E422A6439025796C73724DC75EBD85"
+  "sha256": "197EF45F295AEB39193F271F4AA9352A6067EC3254BE5A0677AE5A4899094764"
 }
