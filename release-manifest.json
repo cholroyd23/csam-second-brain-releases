@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.35",
+  "version": "4.0.36",
   "date": "2026-09-17",
-  "publicCategory": "Experience",
-  "upgradeHeadline": "Stakeholder status got quieter and Updates got dressed",
-  "upgradeSynopsis": "Validated now shows as a green shield-check instead of a tiny billboard. Edited, changed, and hidden states get their own compact icons, while the three update buttons finally look like they arrived from the same application.",
+  "publicCategory": "Fix",
+  "upgradeHeadline": "A steadier launch and an installer with standards",
+  "upgradeSynopsis": "The PCC now restores saved preferences without reloading the page, ending the launch-time jitter. Setup gets proper oval switches and a primary action roomy enough to finish its sentence.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "484EAD9540E547A0F772E5BDD929366610C1218026537E438BFFF9EB7D85780B"
+  "sha256": "D7E5CECD5441454FD4DA3B8E6351FC8125BEE6B59A84204E3B6B3CC3EB396AEE"
 }
