@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.36",
+  "version": "4.1.0",
   "date": "2026-09-17",
-  "publicCategory": "Fix",
-  "upgradeHeadline": "A steadier launch and an installer with standards",
-  "upgradeSynopsis": "The PCC now restores saved preferences without reloading the page, ending the launch-time jitter. Setup gets proper oval switches and a primary action roomy enough to finish its sentence.",
+  "publicCategory": "Experience",
+  "upgradeHeadline": "Presentation Mode now knows when to stop",
+  "upgradeSynopsis": "Presentation Mode hides My Performance & Earnings—period. The full PCC, every navigation item, every Favorite, KPI Plays, workflow actions, separators, counts, and customer sections stay exactly where you left them. The familiar action icons are back too.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "D7E5CECD5441454FD4DA3B8E6351FC8125BEE6B59A84204E3B6B3CC3EB396AEE"
+  "sha256": "D58A44FB9A5186DD394790EF2452F57B7C55A1FF6C02D732AFCFFBD18812E0E9"
 }
