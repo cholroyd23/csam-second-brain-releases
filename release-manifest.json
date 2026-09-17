@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.30",
+  "version": "4.0.31",
   "date": "2026-09-17",
   "publicCategory": "Experience",
-  "upgradeHeadline": "Sharing confirmation now belongs to the app",
-  "upgradeSynopsis": "Enabling sharing now uses a clear Second Brain dialog with explicit consequences and actions. Localhost has been relieved of its spokesperson duties.",
+  "upgradeHeadline": "Updates now explain themselves before asking nicely",
+  "upgradeSynopsis": "The Updates screen now compares your current and latest versions, explains the release, and offers Not now or a version-specific upgrade. Incoming invitations also have a lobby, because sterile empty states were getting suspiciously comfortable.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "13AE8DD5CEE5672CEA8D08DAFA8FF00257E5D21DB1A3A88CFFEB41EA6E922BEE"
+  "sha256": "39505A1E2347CE17849F79263FA607930D657C3BEA2ADACC18CF1A730AA4702A"
 }
