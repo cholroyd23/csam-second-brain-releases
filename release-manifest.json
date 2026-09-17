@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.24",
+  "version": "4.0.25",
   "date": "2026-09-17",
   "publicCategory": "Experience",
-  "upgradeHeadline": "Email links now open Outlook desktop",
-  "upgradeSynopsis": "Customer Brain email links now open a compose window in the installed Outlook desktop client instead of wandering into web mail. Revolutionary concept: a desktop link now opens the desktop app.",
+  "upgradeHeadline": "Email links now actually stay in Outlook desktop",
+  "upgradeSynopsis": "Customer Brain email links now remain mailto links and reliably hand compose actions to Outlook desktop. The old web-mail rewrite has been retired from its unsolicited career change.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "75AE06945E3E9664F20E5DD61221A2898903E1C9DDE67A6C22D7E9D9283B5E8B"
+  "sha256": "F8E8D9C8D7175F91CEBA4AADD9DC7DADC7C888A84B680D22DE8B6082FCB3F205"
 }
