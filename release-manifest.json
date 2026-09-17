@@ -7,5 +7,5 @@
   "upgradeSynopsis": "Second Brain now ensures one portfolio-wide daily refresh automation for active customers and recovers only brains that are at least 24 hours stale. Current, archived, and already-running brains are left alone—because refreshing the refresh is not a strategy.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "8075093BD1FF37A35358A7452E548D963EAE1E3BA099AD275AF00329F590955B"
+  "sha256": "5C05D469714A7CC6413154B700DD4870500A1771B58E39F6CDD30AC1B82C6EFC"
 }
