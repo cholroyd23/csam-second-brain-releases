@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.2.0",
-  "date": "2026-09-17",
-  "publicCategory": "Capability",
-  "upgradeHeadline": "Every customer refresh now introduces the new arrivals",
-  "upgradeSynopsis": "Each customer Brain now shows a one-time What’s New notification for content added by its latest refresh. Open an item to jump straight to it; once you’ve looked, 2B stops waving it around.",
+  "version": "4.2.1",
+  "date": "2026-09-18",
+  "publicCategory": "Fix",
+  "upgradeHeadline": "Setup stopped eating the ends of sentences",
+  "upgradeSynopsis": "The native installer now gives folder guidance, paths, headlines, and the primary action enough room at Windows display scaling. Apparently every word wanted to be visible. Demanding, but fair.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "3BD8D9DC98238958B2C121D0B1EC903163A09700ED7EF748F01AD342B3FCED2B"
+  "sha256": "E0E326960DB0F0C85E6F9C9B4A61BDC5F6A4EA7A28B0439A9D80C53EFEBBDC99"
 }
