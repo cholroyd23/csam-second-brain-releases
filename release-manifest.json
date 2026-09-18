@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.2.5",
+  "version": "4.3.0",
   "date": "2026-09-18",
-  "publicCategory": "Experience",
-  "upgradeHeadline": "Customer refreshes found a personality",
-  "upgradeSynopsis": "What’s New now rotates through a dozen less-boring introductions and speaks directly about KCC’s, SBH’s, or TSN’s 2B. Generic corporate oatmeal has been removed from the menu.",
+  "publicCategory": "Feature",
+  "upgradeHeadline": "2B learned to handle the admin before it handles you",
+  "upgradeSynopsis": "AI Admin, discovery-first onboarding, immediate customer synthesis, compact milestone editing, durable preferences, smarter meeting views, and verified MSX reconciliation arrive together. Apparently the small update wandered off and founded a department.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "CEEEA5F26F5965E0F69D6BD236FF5BBBC576483D6533490C08BC289BA898AE08"
+  "sha256": "E7524E6F615EC2F6FF8C3D6B1ED551CA07F23FE223186469CE974C0AFA6FE07A"
 }
