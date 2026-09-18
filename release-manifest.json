@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.2.3",
+  "version": "4.2.4",
   "date": "2026-09-18",
   "publicCategory": "Fix",
-  "upgradeHeadline": "Setup now recognizes its own running app",
-  "upgradeSynopsis": "When the PCC briefly misses a health check, Setup now verifies the actual server process, portfolio config, and port before recycling it. No more accusing Second Brain of being some mysterious other application.",
+  "upgradeHeadline": "Subsection links are clickable again",
+  "upgradeSynopsis": "Customer section summaries once again link directly to their available subsections. One malformed notification selector had sidelined the whole navigation script. It has been removed from active duty.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "14DC9F3DFFBCC27640C69CCD88EBF04F4442B996F9B79C7EEE3A9A5B4C77B2CF"
+  "sha256": "9B79BE663CD9DBBE580860B5E2FDB94C3074380C21A19DFBD5E0732337DCD265"
 }
