@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.2.4",
+  "version": "4.2.5",
   "date": "2026-09-18",
-  "publicCategory": "Fix",
-  "upgradeHeadline": "Subsection links are clickable again",
-  "upgradeSynopsis": "Customer section summaries once again link directly to their available subsections. One malformed notification selector had sidelined the whole navigation script. It has been removed from active duty.",
+  "publicCategory": "Experience",
+  "upgradeHeadline": "Customer refreshes found a personality",
+  "upgradeSynopsis": "What’s New now rotates through a dozen less-boring introductions and speaks directly about KCC’s, SBH’s, or TSN’s 2B. Generic corporate oatmeal has been removed from the menu.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "9B79BE663CD9DBBE580860B5E2FDB94C3074380C21A19DFBD5E0732337DCD265"
+  "sha256": "CEEEA5F26F5965E0F69D6BD236FF5BBBC576483D6533490C08BC289BA898AE08"
 }
