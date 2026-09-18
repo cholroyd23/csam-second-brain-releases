@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.2.2",
+  "version": "4.2.3",
   "date": "2026-09-18",
   "publicCategory": "Fix",
-  "upgradeHeadline": "The customer sections have left the notification box",
-  "upgradeSynopsis": "All customer sections are restored in the main Second Brain view. A notification heading briefly convinced the renderer it owned the entire page. It has been relieved of that responsibility.",
+  "upgradeHeadline": "Setup now recognizes its own running app",
+  "upgradeSynopsis": "When the PCC briefly misses a health check, Setup now verifies the actual server process, portfolio config, and port before recycling it. No more accusing Second Brain of being some mysterious other application.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "5C269FF393D4722E9214C4FEE97185C63261357DF070CA6C1C2C9FDC8F07E446"
+  "sha256": "14DC9F3DFFBCC27640C69CCD88EBF04F4442B996F9B79C7EEE3A9A5B4C77B2CF"
 }
