@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.2.1",
+  "version": "4.2.2",
   "date": "2026-09-18",
   "publicCategory": "Fix",
-  "upgradeHeadline": "Setup stopped eating the ends of sentences",
-  "upgradeSynopsis": "The native installer now gives folder guidance, paths, headlines, and the primary action enough room at Windows display scaling. Apparently every word wanted to be visible. Demanding, but fair.",
+  "upgradeHeadline": "The customer sections have left the notification box",
+  "upgradeSynopsis": "All customer sections are restored in the main Second Brain view. A notification heading briefly convinced the renderer it owned the entire page. It has been relieved of that responsibility.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "E0E326960DB0F0C85E6F9C9B4A61BDC5F6A4EA7A28B0439A9D80C53EFEBBDC99"
+  "sha256": "5C269FF393D4722E9214C4FEE97185C63261357DF070CA6C1C2C9FDC8F07E446"
 }
