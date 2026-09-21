@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.4.3",
+  "version": "4.4.4",
   "date": "2026-09-21",
-  "publicCategory": "Fix",
-  "upgradeHeadline": "Setup now brings the GitHub tools it needs",
-  "upgradeSynopsis": "Setup now installs Git for Windows and GitHub CLI through winget when missing, then continues through authentication, internal repository access, credential wiring, and MSX MCP installation.",
+  "publicCategory": "Experience",
+  "upgradeHeadline": "Setup now shows its work",
+  "upgradeSynopsis": "Long dependency installs now keep the Setup window responsive with an animated progress bar, the active step, elapsed seconds, and reassurance that installation is still working.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "44C9932158C20BBCBC98284D821718C1881822BC432DAC93C80CCF6D1FAFC6ED"
+  "sha256": "C54936210B775B6F822CA1735C1B752DFD6A3F164214E1E825A5581F502509A1"
 }
