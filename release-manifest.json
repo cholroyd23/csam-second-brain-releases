@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.4.0",
+  "version": "4.4.1",
   "date": "2026-09-21",
-  "publicCategory": "Feature",
-  "upgradeHeadline": "Account Summary moved from drafting to delivery",
-  "upgradeSynopsis": "AI Admin now generates, reviews, publishes, and receipts monthly Account Summary notes; milestone confirmation is faster; desktop Outlook stays desktop; and the roadmap previews what is coming without quietly shipping it.",
+  "publicCategory": "Fix",
+  "upgradeHeadline": "Account Summary brought its missing dependency",
+  "upgradeSynopsis": "Setup now installs and verifies the MSX MCP plugin required by Account Summary, while generation failures show exact per-account remediation instead of the unhelpful No drafts were produced message.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "93CBB9F59A751799EE6911FE0F330D1F0A6A466F13243B5E73D93CAD4FDDD359"
+  "sha256": "10F397DFE4D843B257870047C01041AAEF8072D8E7C85D0B6616A3AEB98177D0"
 }
