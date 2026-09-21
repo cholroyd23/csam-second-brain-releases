@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.4.4",
+  "version": "4.4.5",
   "date": "2026-09-21",
-  "publicCategory": "Experience",
-  "upgradeHeadline": "Setup now shows its work",
-  "upgradeSynopsis": "Long dependency installs now keep the Setup window responsive with an animated progress bar, the active step, elapsed seconds, and reassurance that installation is still working.",
+  "publicCategory": "Privacy",
+  "upgradeHeadline": "AI Admin now starts private by design",
+  "upgradeSynopsis": "Learning, Expenses, and Travel now open each user's authorized application without shipping any developer fixture data, personal counts, assignments, transactions, or itinerary details.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "C54936210B775B6F822CA1735C1B752DFD6A3F164214E1E825A5581F502509A1"
+  "sha256": "6AB83D626EEE9B5DFEC3DAE0AE700499C9EC3DA938F9565309383F78C9E8278C"
 }
