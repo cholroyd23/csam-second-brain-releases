@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.4.1",
+  "version": "4.4.2",
   "date": "2026-09-21",
   "publicCategory": "Fix",
-  "upgradeHeadline": "Account Summary brought its missing dependency",
-  "upgradeSynopsis": "Setup now installs and verifies the MSX MCP plugin required by Account Summary, while generation failures show exact per-account remediation instead of the unhelpful No drafts were produced message.",
+  "upgradeHeadline": "Setup now checks the whole MSX access chain",
+  "upgradeSynopsis": "Before installing Account Summary's MSX dependency, Setup now verifies Git, GitHub CLI authentication, internal repository access, and Git credential wiring—with exact remediation for the failing step.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "10F397DFE4D843B257870047C01041AAEF8072D8E7C85D0B6616A3AEB98177D0"
+  "sha256": "2C64867B9DC1CFE634525C9BEC613350AA25809FBD2B26C9E31457807C76B0A3"
 }
