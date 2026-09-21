@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.4.5",
+  "version": "4.4.7",
   "date": "2026-09-21",
-  "publicCategory": "Privacy",
-  "upgradeHeadline": "AI Admin now starts private by design",
-  "upgradeSynopsis": "Learning, Expenses, and Travel now open each user's authorized application without shipping any developer fixture data, personal counts, assignments, transactions, or itinerary details.",
+  "publicCategory": "Fix",
+  "upgradeHeadline": "Your corrections now outrank the robots",
+  "upgradeSynopsis": "Explicit ownership notes stay authoritative, governance artifacts require verified evidence, Proactive Actions links only actionable records, and installed MSX plugins are discovered by their real bundle.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "6AB83D626EEE9B5DFEC3DAE0AE700499C9EC3DA938F9565309383F78C9E8278C"
+  "sha256": "CEEA3A554FE42FE67E48215055EA8677E49A74D3345E11932FABAC7EDF17687A"
 }
