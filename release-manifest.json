@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.3.0",
-  "date": "2026-09-18",
+  "version": "4.4.0",
+  "date": "2026-09-21",
   "publicCategory": "Feature",
-  "upgradeHeadline": "2B learned to handle the admin before it handles you",
-  "upgradeSynopsis": "AI Admin, discovery-first onboarding, immediate customer synthesis, compact milestone editing, durable preferences, smarter meeting views, and verified MSX reconciliation arrive together. Apparently the small update wandered off and founded a department.",
+  "upgradeHeadline": "Account Summary moved from drafting to delivery",
+  "upgradeSynopsis": "AI Admin now generates, reviews, publishes, and receipts monthly Account Summary notes; milestone confirmation is faster; desktop Outlook stays desktop; and the roadmap previews what is coming without quietly shipping it.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "E7524E6F615EC2F6FF8C3D6B1ED551CA07F23FE223186469CE974C0AFA6FE07A"
+  "sha256": "93CBB9F59A751799EE6911FE0F330D1F0A6A466F13243B5E73D93CAD4FDDD359"
 }
