@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.4.7",
+  "version": "4.4.8",
   "date": "2026-09-21",
   "publicCategory": "Fix",
-  "upgradeHeadline": "Your corrections now outrank the robots",
-  "upgradeSynopsis": "Explicit ownership notes stay authoritative, governance artifacts require verified evidence, Proactive Actions links only actionable records, and installed MSX plugins are discovered by their real bundle.",
+  "upgradeHeadline": "Account Summary setup now proves the whole path",
+  "upgradeSynopsis": "Setup verifies the operational MSX bundle and write skill, repairs Git visibility, and keeps Account Summary installed even when an individual customer renderer safely rolls back.",
   "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Second%20Brain%20Releases/Setup.exe?download=1",
   "packageFile": "csam-second-brain-package/Setup.exe",
-  "sha256": "CEEA3A554FE42FE67E48215055EA8677E49A74D3345E11932FABAC7EDF17687A"
+  "sha256": "231C95D89F999D7A3341D122B5D1C017A32DB221B4F06CB92BCCB7D76D1C5B30"
 }
