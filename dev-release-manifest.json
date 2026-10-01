@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.4.11",
+  "version": "4.4.12",
   "date": "2026-10-01",
-  "publicCategory": "Fix",
-  "upgradeHeadline": "Release notes came along for the upgrade",
-  "upgradeSynopsis": "Scout-native updates now validate and restore the complete What’s New history before replacing the installed skill.",
-  "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases%2FSecondBrain%2D4%2E4%2E11%2DPrivate%2DUpdate%2Ezip&parent=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases",
+  "publicCategory": "Reliability",
+  "upgradeHeadline": "OneDrive stopped babysitting live server logs",
+  "upgradeSynopsis": "PCC stdout and error logs moved to instance-isolated LocalAppData storage while support bundles still collect sanitized diagnostics.",
+  "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases%2FSecondBrain%2D4%2E4%2E12%2DPrivate%2DUpdate%2Ezip&parent=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases",
   "packageFile": "",
-  "sha256": "600DF04F11BD931FB5FCF6379166590459BC53DC880CDC39DFA7DEF887F9B5AA"
+  "sha256": "E1CBB2DF9B1EF613E62A449103AE8BD404A5AC2CFA9752193D1C14AC090CE378"
 }
