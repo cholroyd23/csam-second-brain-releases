@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.4.12",
+  "version": "4.4.13",
   "date": "2026-10-01",
-  "publicCategory": "Reliability",
-  "upgradeHeadline": "OneDrive stopped babysitting live server logs",
-  "upgradeSynopsis": "PCC stdout and error logs moved to instance-isolated LocalAppData storage while support bundles still collect sanitized diagnostics.",
-  "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases%2FSecondBrain%2D4%2E4%2E12%2DPrivate%2DUpdate%2Ezip&parent=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases",
+  "publicCategory": "Usability",
+  "upgradeHeadline": "The update tells you what to do next",
+  "upgradeSynopsis": "Download guidance now walks users from Windows Downloads to Scout, preview, and approval without leaving them stranded.",
+  "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases%2FSecondBrain%2D4%2E4%2E13%2DPrivate%2DUpdate%2Ezip&parent=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases",
   "packageFile": "",
-  "sha256": "E1CBB2DF9B1EF613E62A449103AE8BD404A5AC2CFA9752193D1C14AC090CE378"
+  "sha256": "C7499CD92C366FDBCBC1E26963CBB8E1DC6CF8B3890BC0698B7CF018A063632F"
 }
