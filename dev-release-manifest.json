@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.4.14",
+  "version": "4.4.15",
   "date": "2026-10-01",
   "publicCategory": "Usability",
-  "upgradeHeadline": "Your next step is ready to paste",
-  "upgradeSynopsis": "Download the ZIP, attach it in Microsoft Scout, then paste: Install this Second Brain update. Review the preview and approve.",
-  "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases%2FSecondBrain%2D4%2E4%2E14%2DPrivate%2DUpdate%2Ezip&parent=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases",
+  "upgradeHeadline": "One paste replaces the file handoff",
+  "upgradeSynopsis": "After downloading, paste into Scout: Install the latest Second Brain update from Downloads. Scout finds and verifies the ZIP, then shows the approval preview.",
+  "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases%2FSecondBrain%2D4%2E4%2E15%2DPrivate%2DUpdate%2Ezip&parent=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases",
   "packageFile": "",
-  "sha256": "60B97E0B0DB904B9675619ED56D53714E1A90A2B48F616258BBE0C4E9F3DAE40"
+  "sha256": "FF39F4443D3C448A80E49C443490A50C752E98F4BE06727AE41DE5306839596F"
 }
