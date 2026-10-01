@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "4.4.15",
+  "version": "4.4.16",
   "date": "2026-10-01",
-  "publicCategory": "Usability",
-  "upgradeHeadline": "One paste replaces the file handoff",
-  "upgradeSynopsis": "After downloading, paste into Scout: Install the latest Second Brain update from Downloads. Scout finds and verifies the ZIP, then shows the approval preview.",
-  "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases%2FSecondBrain%2D4%2E4%2E15%2DPrivate%2DUpdate%2Ezip&parent=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases",
+  "publicCategory": "Reliability",
+  "upgradeHeadline": "Your customizations travel safely",
+  "upgradeSynopsis": "A 33-scenario compatibility matrix now covers customized engines, stale metadata, conflicts, rollback, downgrade prevention, hostile paths, backup integrity, repeat upgrades, and update-channel continuity.",
+  "downloadUrl": "https://microsoft.sharepoint.com/teams/CSAMSecondBrain/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases%2FSecondBrain%2D4%2E4%2E16%2DPrivate%2DUpdate%2Ezip&parent=%2Fteams%2FCSAMSecondBrain%2FShared%20Documents%2FSecond%20Brain%20Releases",
   "packageFile": "",
-  "sha256": "FF39F4443D3C448A80E49C443490A50C752E98F4BE06727AE41DE5306839596F"
+  "sha256": "901063BAE04E156EFC1A813CCE4BF83181A8F4675CF939F98DFD4B5D0315E68C"
 }
